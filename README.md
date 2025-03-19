@@ -23,15 +23,6 @@ Full-Stack Web Developer
 
 📫 Reach out to me at: [Your Email or LinkedIn]
 
-My Skills Include:
-💻 Programming & Technologies:
-
-HTML | CSS | JavaScript | PHP | MySQL
-Laravel | ZEND 2 | MVC | jQuery
-React (Next.js) | Angular | Vue
-Bootstrap | REST APIs | Git & CI/CD
-⚡ Always learning, improving, and pushing boundaries! 🚀
-
 ## My Skills Include
 
 <h4> Languages </h4>
